@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BRZblog]]></title>
         <description><![CDATA[BRZblog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brzblog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 17:53:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 17:56:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brzblog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c06a3417-3d34-4635-b315-b29e8825336c.jpg">]]></description>
+            <link>https://thegrid.ai/brzblog/a1b25978-44c1-4e7b-be87-7582738b67bc/index.html</link>
+            <guid isPermaLink="false">a1b25978-44c1-4e7b-be87-7582738b67bc</guid>
+            <pubDate>Mon, 11 Apr 2016 17:56:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05811d3f-518d-46a6-8f3e-7b33cbec812a.jpg">]]></description>
-            <link>undefinede46cc42d-7b29-4b82-a379-35ef1d6f7540/index.html</link>
+            <link>https://thegrid.ai/brzblog/e46cc42d-7b29-4b82-a379-35ef1d6f7540/index.html</link>
             <guid isPermaLink="false">e46cc42d-7b29-4b82-a379-35ef1d6f7540</guid>
             <pubDate>Mon, 11 Apr 2016 17:51:48 GMT</pubDate>
         </item>
